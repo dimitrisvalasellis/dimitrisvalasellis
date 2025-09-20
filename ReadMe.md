@@ -1,8 +1,7 @@
-<div align="center">
+<br/>
 Hi there! 👋
 I'm a front-end developer that brings pixels and ideas into reality.
-
-</div>
+<br/>
 💻 Technologies & Frameworks
 
 I work with a variety of languages and frameworks to build modern web applications.
@@ -19,6 +18,7 @@ I work with a variety of languages and frameworks to build modern web applicatio
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP Badge"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" alt="Laravel Badge"/>
 </p>
+<br/>
 🛠 Tools & Environment
 
 Here are the tools and operating systems that I use in my development workflow.
