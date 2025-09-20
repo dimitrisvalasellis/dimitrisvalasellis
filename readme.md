@@ -6,11 +6,12 @@
 
 ## About
 
-I'm a passionate frontend developer who transforms ideas into clean, efficient, and beautiful web applications. I specialize in modern JavaScript frameworks and have a keen eye for detail when it comes to user experience and design implementation.
+Passionate about creating exceptional web experiences through clean code and thoughtful design. I specialize in building modern, performant applications that users love to interact with.
 
 ## Tech Stack
 
 **Languages & Frameworks**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -22,6 +23,7 @@ I'm a passionate frontend developer who transforms ideas into clean, efficient, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Tools & Environment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
@@ -47,7 +49,6 @@ I'm a passionate frontend developer who transforms ideas into clean, efficient, 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/dimitrisvalasellis)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dimvalas.me@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dimitrisvalasellis)
 
 ---
 
