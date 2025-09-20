@@ -1,43 +1,38 @@
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+There!+👋;Frontend+Developer;Pixel+Perfectionist" alt="Typing SVG" />
-</div>
+# Dimitris Valasellis
 
-I'm a **Frontend Developer** who transforms ideas into pixel-perfect reality.
-
-> Building modern web applications with clean, efficient code.
+**Frontend Developer** | Building pixel-perfect web experiences
 
 ---
+
+## About
+
+I'm a passionate frontend developer who transforms ideas into clean, efficient, and beautiful web applications. I specialize in modern JavaScript frameworks and have a keen eye for detail when it comes to user experience and design implementation.
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+**Languages & Frameworks**
+- TypeScript • JavaScript • React • Next.js
+- HTML5 • CSS3 • Tailwind CSS
+- Node.js • Python
 
----
-
-## GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=dimitrisvalasellis&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Statistics&card_width=450" alt="GitHub Stats" />
-
----
+**Tools & Environment**
+- Git • VS Code • Cursor
+- Windows • Linux
 
 ## What I Do
 
-- **Frontend Development** — Creating responsive user interfaces
-- **Next.js Applications** — Building fast, SEO-friendly web apps
-- **Pixel-Perfect Design** — Turning designs into flawless implementations
-- **Problem Solving** — Transforming complex ideas into simple solutions
+- **Frontend Development** — Creating responsive and interactive user interfaces
+- **Next.js Applications** — Building fast, SEO-optimized web applications
+- **UI/UX Implementation** — Converting designs into pixel-perfect code
+- **Performance Optimization** — Ensuring fast loading and smooth user experiences
 
----
+## GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=dimitrisvalasellis&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisvalasellis&theme=dark&hide_border=true&area=true&custom_title=Activity&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" alt="Contribution Graph" />
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisvalasellis&theme=dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 
 ## Connect
 
@@ -47,4 +42,4 @@ I'm a **Frontend Developer** who transforms ideas into pixel-perfect reality.
 
 ---
 
-Thanks for visiting! ✨
+*Thanks for visiting! Let's build something amazing together.*
