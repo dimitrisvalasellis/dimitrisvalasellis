@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There!%20👋&fontSize=50&fontAlignY=40&desc=I%20turn%20pixels%20and%20ideas%20into%20reality&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontAlignY=40&desc=I%20turn%20pixels%20and%20ideas%20into%20reality&descAlignY=55&descAlign=50&animation=twinkling" alt="Header" />
 </div>
 
 <div align="center">
-  <h1>🚀 Frontend Developer</h1>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Frontend+Developer;Pixel+Perfectionist;Code+Architect;Digital+Storyteller" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <p><em>Transforming ideas into pixel-perfect reality with modern web technologies</em></p>
 </div>
 
@@ -32,15 +35,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimitrisvalasellis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisvalasellis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrisvalasellis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimitrisvalasellis&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&card_width=500" alt="GitHub Stats" />
 </div>
 
 ---
@@ -55,23 +53,10 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📈 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/dimitrisvalasellis/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitrisvalasellis&repo=awesome-project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/dimitrisvalasellis/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitrisvalasellis&repo=awesome-project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisvalasellis&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisvalasellis&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 </div>
 
 ---
@@ -85,9 +70,6 @@
   <a href="mailto:dimvalas.me@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dimitrisvalasellis">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://twitter.com/dimitrisvalasellis">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -96,10 +78,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer&animation=twinkling" alt="Footer" />
 </div>
 
 <div align="center">
-  <p><em>Thanks for visiting! ✨</em></p>
-  <p><em>Let's build something amazing together! 🚀</em></p>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀" alt="Footer Typing" />
 </div>
